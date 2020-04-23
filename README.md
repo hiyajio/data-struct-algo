@@ -1,3 +1,3 @@
-# Data Structures & Algorithms :keyboard: JavaScript, Python
+# Data Structures & Algorithms :keyboard: JavaScript
 
-Documentation of my progress learning Data Structures & Algorithms using JavaScript and Python.
+Documentation of my progress learning Data Structures & Algorithms using JavaScript.
